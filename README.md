@@ -1,6 +1,6 @@
-# budget_app
+# Flutodo
 
-A new Flutter project.
+Flutodo shows its users how to track their purchases🛍️ to ultimately show them what to (Flut)do in order to imporve their financial status🤑. (NEW FEATURES COMING SOON!🤫🔥)
 
 ## Getting Started
 
